@@ -76,14 +76,10 @@ This project presents a comprehensive **Excel Dashboard** created for **Blinkit 
 
 ---
 
-## Insights & Recommendations
+## Project Report
 
-- **Focus on High & Medium Outlet Sizes** – Combined, they contribute ~80% of total sales.
-- **Tier 3 outlets outperform** – Explore expansion or targeted campaigns in these regions.
-- **Top product categories (e.g., Fruits, Snacks)** should be prioritized in promotions.
-- **Supermarket Type 1** is the most profitable – worth replicating in other areas.
-- **Regular fat products are more popular** – adjust inventory and marketing accordingly.
-- **Post-2018 sales decline** needs investigation for better strategic planning.
+- Excel Dashboard 
+- Screenshots (included in `/images` directory)
 
 ---
 
@@ -93,12 +89,14 @@ This project presents a comprehensive **Excel Dashboard** created for **Blinkit 
   - Dynamic charts (bar, pie, line)
   - Interactive slicers/filters
   - Clean and color-coded layout for readability
-
+   
 ---
 
-## Project Report
+## Insights & Recommendations
 
-- Excel Dashboard 
-- Screenshots (included in `/images` directory)
-
----
+- **Focus on High & Medium Outlet Sizes** – Combined, they contribute ~80% of total sales.
+- **Tier 3 outlets outperform** – Explore expansion or targeted campaigns in these regions.
+- **Top product categories (e.g., Fruits, Snacks)** should be prioritized in promotions.
+- **Supermarket Type 1** is the most profitable – worth replicating in other areas.
+- **Regular fat products are more popular** – adjust inventory and marketing accordingly.
+- **Post-2018 sales decline** needs investigation for better strategic planning.
