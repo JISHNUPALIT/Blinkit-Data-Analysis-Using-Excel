@@ -78,8 +78,11 @@ This project presents a comprehensive **Excel Dashboard** created for **Blinkit 
 
 ## Project Report
 
-- Excel Dashboard 
-- Screenshots (included in `/images` directory)
+ Excel Dashboard
+ 
+
+ ![image alt](https://github.com/JISHNUPALIT/Blinkit-Data-Analysis-Using-Excel/blob/2f21da256a9379e10edac374279ae85ce406b746/Blinkit%20Data%20Analysis.png)
+  
 
 ---
 
