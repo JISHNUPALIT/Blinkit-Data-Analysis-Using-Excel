@@ -1,5 +1,10 @@
 # Blinkit-Data-Analysis-Using-Excel
 
+
+![image alt](https://github.com/JISHNUPALIT/Blinkit-Data-Analysis-Using-Excel/blob/fb1308a7915a117db45ba995a46d72109dde45f5/blinkit_logo.jpg)
+
+
+
 ## Project Overview
 
 This project presents a comprehensive **Excel Dashboard** created for **Blinkit – India’s Last Minute App**, offering in-depth analysis of sales data across various retail dimensions. The dashboard allows stakeholders to **track key performance indicators (KPIs)**, identify **high-performing outlet types and item categories**, and gain valuable business insights.
