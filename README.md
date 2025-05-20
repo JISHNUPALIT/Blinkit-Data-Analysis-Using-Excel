@@ -1,7 +1,7 @@
 # Blinkit-Data-Analysis-Using-Excel
 
 
-![image alt](https://github.com/JISHNUPALIT/Blinkit-Data-Analysis-Using-Excel/blob/fb1308a7915a117db45ba995a46d72109dde45f5/blinkit_logo.jpg)
+![image alt](https://github.com/JISHNUPALIT/Blinkit-Data-Analysis-Using-Excel/blob/8613036c99f58b0933e46c4a17a31f389353ef50/Blinkit_logo.jpg)
 
 
 
